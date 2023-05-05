@@ -6,10 +6,10 @@
 #include <string.h>
 #include <json/json.h>
 
-#include "../src/madlib/utils.h"
-#include "../src/madlib/Clock.h"
+#include "../src/lib/utils.h"
+#include "../src/lib/Clock.h"
 
-namespace madlib {
+namespace lib {
 
     #define ERR_TEST_FAILED_MSG "Test failed: "
     #define ERR_TEST_FAILED -1
