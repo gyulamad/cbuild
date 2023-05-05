@@ -1,0 +1,5 @@
+build
+coverage
+*.log
+libs
+coverage.info
